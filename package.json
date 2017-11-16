@@ -19,11 +19,8 @@
   "author": "Franck Cornu",
   "license": "ISC",
   "dependencies": {
-    "adal-node": {
-      "version": "0.1.25",
-      "resolved": "https://registry.npmjs.org/adal-node/-/adal-node-0.1.25.tgz",
-      "integrity": "sha1-ZVQ1CrQpFIcABMRcDWREjz2/zQM="
-    },
+    "adal-node": "0.1.25",
+     
       "botbuilder": "3.5.4",
       "es6-promise": "4.0.5",
       "lodash": "4.17.4",
