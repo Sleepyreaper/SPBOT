@@ -22,7 +22,7 @@
     "adal-node": {
       "version": "0.1.25",
       "resolved": "https://registry.npmjs.org/adal-node/-/adal-node-0.1.25.tgz",
-      "integrity": "sha1-ZVQ1CrQpFIcABMRcDWREjz2/zQM=",
+      "integrity": "sha1-ZVQ1CrQpFIcABMRcDWREjz2/zQM="
     },
       "botbuilder": "3.5.4",
       "es6-promise": "4.0.5",
