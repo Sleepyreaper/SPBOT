@@ -19,7 +19,6 @@
   "author": "Franck Cornu",
   "license": "ISC",
   "dependencies": {
-    "adal-node": "^0.1.22",
     "botbuilder": "^3.5.4",
     "es6-promise": "^4.0.5",
     "lodash": "^4.17.4",
