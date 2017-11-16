@@ -21,10 +21,10 @@
   "dependencies": {
     "@types/node": "^8.0.53",
     "adal-node": "^0.1.25",
-    "botbuilder": "^3.5.4",
-    "es6-promise": "^4.0.5",
+    "botbuilder": "^3.12.0",
+    "es6-promise": "^4.1.1",
     "lodash": "^4.17.4",
-    "node-fetch": "^1.6.3",
-    "restify": "^4.3.0"
+    "node-fetch": "^1.7.3",
+    "restify": "^4.3.1"
   }
 }
